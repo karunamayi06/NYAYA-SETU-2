@@ -1,0 +1,14 @@
+streamlit
+mcp
+langchain_groq
+langgraph
+langchain_mcp_adapters
+duckduckgo_search
+python-dotenv
+nest_asyncio
+dotenv
+httpx
+anyio
+deep-translator
+sumy
+fastapi
